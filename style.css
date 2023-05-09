@@ -1,0 +1,33 @@
+.font{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center ;
+    color: cornsilk;
+    font-size: 30px;
+}
+
+.fontl{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left ;
+    color: cornsilk;
+    font-size: 25px;
+    margin-left: 5%;
+
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .tab {
+    display: inline-block;
+    margin-left: 268px;
+}
+
+.div
+{
+  display:block;
+  float: left;  
+}
